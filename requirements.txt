@@ -1,0 +1,8 @@
+IPython
+google
+ipywidgets
+matplotlib
+numpy
+otter-grader
+pandas
+scikit-learn
